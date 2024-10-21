@@ -169,6 +169,15 @@ p{
         bottom: 0;
         z-index: -1;
     }
+    .container{
+        display: flex;
+        background-color: rgba(37, 37, 37, 0.331);
+        gap: 30px;
+        padding: 20px;
+        text-align: center;
+        height: 80px;
+        border-radius: 10px;
+    }
     .detail{
         text-align: center;
         align-self: center;

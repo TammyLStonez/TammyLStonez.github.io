@@ -168,11 +168,11 @@ img:hover{
         background-color: rgba(0, 0, 0, 0.261);
     }
 }
-@media (max-width: 386px) {
+@media (max-width: 365px) {
     .container{
         display: flex;
         background-color: rgba(37, 37, 37, 0.331);
-        gap: 30px;
+        gap: 10px;
         padding: 20px;
         text-align: center;
         height: 80px;
@@ -195,9 +195,9 @@ img:hover{
     .page-title{
         color: azure;
         font-family: 'Times New Roman', Times, serif;
-        font-size: 26px;
+        font-size: 20px;
         position: relative;
-        font-weight: 900;
+        font-weight: 600;
         text-decoration: overline;
         bottom: 8px;
         vertical-align: middle;
