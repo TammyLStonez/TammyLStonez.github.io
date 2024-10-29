@@ -94,7 +94,7 @@ button{
 .page-title{
     color: azure;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: xx-large;
+    font-size: clamp(1rem 5vw 4rem);
     position: relative;
     font-weight: 600;
     text-decoration: none;
